@@ -27,14 +27,16 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+- Desktop and Mobile Versions:
+
 
 ![Desktop version:](./assets/images/screenshot_desktop.png)
 ![Mobile Version:](./assets/images/screenshot_mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/newsletter-signup-form-with-success-message-solution-u74AH-eYtI)
+- Live Site URL: (https://incihuseynli.github.io/newsletter-sign-up-with-success-message-main/)
 
 ## My process
 
